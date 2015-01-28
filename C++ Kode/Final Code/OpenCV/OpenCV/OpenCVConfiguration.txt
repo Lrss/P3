@@ -1,0 +1,26 @@
+H_MIN1 = 
+0
+H_MAX1 = 
+31
+S_MIN1 = 
+102
+S_MAX1 = 
+255
+V_MIN1 = 
+0
+V_MAX1 = 
+255
+H_MIN2 = 
+58
+H_MAX2 = 
+88
+S_MIN2 = 
+0
+S_MAX2 = 
+255
+V_MIN2 = 
+0
+V_MAX2 = 
+255
+Size = 
+7674

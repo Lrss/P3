@@ -1,0 +1,12 @@
+C:\Users\Lars\Desktop\projects\listener\listener\bin\Debug\listener.exe.config
+C:\Users\Lars\Desktop\projects\listener\listener\bin\Debug\listener.exe
+C:\Users\Lars\Desktop\projects\listener\listener\bin\Debug\listener.pdb
+C:\Users\Lars\Desktop\projects\listener\listener\obj\Debug\listener.exe
+C:\Users\Lars\Desktop\projects\listener\listener\obj\Debug\listener.pdb
+C:\Users\Lars\Desktop\projects\listener\listener\obj\Debug\listener.csprojResolveAssemblyReference.cache
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\bin\Debug\listener.exe.config
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\obj\Debug\listener.exe
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\obj\Debug\listener.pdb
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\bin\Debug\listener.exe
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\bin\Debug\listener.pdb
+C:\Users\KingBing\Documents\XPdev Unity\C++ Kode\With webcam\OpenCV udp\listener\listener\obj\Debug\listener.csprojResolveAssemblyReference.cache

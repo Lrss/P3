@@ -1,0 +1,12 @@
+B_MIN = 
+0
+B_MAX = 
+129
+G_MIN = 
+0
+G_MAX = 
+105
+R_MIN = 
+110
+R_MAX = 
+255

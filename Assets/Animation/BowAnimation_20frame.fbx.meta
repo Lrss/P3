@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 288882baf159c3147a1da713788d34d3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bowRig_v1_0:b_bend1
+    100004: bowRig_v1_0:b_bend2
+    100006: bowRig_v1_0:b_bend3
+    100008: bowRig_v1_0:b_bend4
+    100010: bowRig_v1_0:b_bendIk
+    100012: bowRig_v1_0:b_bowGrip
+    100014: bowRig_v1_0:b_bowPull
+    100016: bowRig_v1_0:b_bowString
+    100018: bowRig_v1_0:b_drawIk
+    100020: bowRig_v1_0:b_pullSlide
+    100022: bowRig_v1_0:b_stringSlide
+    100024: bowRig_v1_0:bendBones
+    100026: bowRig_v1_0:bones_controls
+    100028: bowRig_v1_0:bowBodyGeo
+    100030: bowRig_v1_0:bowMasterCtrl
+    100032: bowRig_v1_0:bowStringGeo
+    100034: bowRig_v1_0:drawCtrl
+    100036: bowRig_v1_0:geoGrp
+    100038: bowRig_v1_0:slideJoint
+    100040: bowRig_v1_0:stringSlideCtrl
+    100042: bowRig_v1_0:t_bend1
+    100044: bowRig_v1_0:t_bend2
+    100046: bowRig_v1_0:t_bend3
+    100048: bowRig_v1_0:t_bend4
+    100050: bowRig_v1_0:t_bendIk
+    100052: bowRig_v1_0:t_bowGrip
+    100054: bowRig_v1_0:t_bowPull
+    100056: bowRig_v1_0:t_bowString
+    100058: bowRig_v1_0:t_drawIk
+    100060: bowRig_v1_0:t_pullSlide
+    100062: bowRig_v1_0:t_stringSlide
+    100064: bowRig_v1_0:transform1
+    400000: //RootNode
+    400002: bowRig_v1_0:b_bend1
+    400004: bowRig_v1_0:b_bend2
+    400006: bowRig_v1_0:b_bend3
+    400008: bowRig_v1_0:b_bend4
+    400010: bowRig_v1_0:b_bendIk
+    400012: bowRig_v1_0:b_bowGrip
+    400014: bowRig_v1_0:b_bowPull
+    400016: bowRig_v1_0:b_bowString
+    400018: bowRig_v1_0:b_drawIk
+    400020: bowRig_v1_0:b_pullSlide
+    400022: bowRig_v1_0:b_stringSlide
+    400024: bowRig_v1_0:bendBones
+    400026: bowRig_v1_0:bones_controls
+    400028: bowRig_v1_0:bowBodyGeo
+    400030: bowRig_v1_0:bowMasterCtrl
+    400032: bowRig_v1_0:bowStringGeo
+    400034: bowRig_v1_0:drawCtrl
+    400036: bowRig_v1_0:geoGrp
+    400038: bowRig_v1_0:slideJoint
+    400040: bowRig_v1_0:stringSlideCtrl
+    400042: bowRig_v1_0:t_bend1
+    400044: bowRig_v1_0:t_bend2
+    400046: bowRig_v1_0:t_bend3
+    400048: bowRig_v1_0:t_bend4
+    400050: bowRig_v1_0:t_bendIk
+    400052: bowRig_v1_0:t_bowGrip
+    400054: bowRig_v1_0:t_bowPull
+    400056: bowRig_v1_0:t_bowString
+    400058: bowRig_v1_0:t_drawIk
+    400060: bowRig_v1_0:t_pullSlide
+    400062: bowRig_v1_0:t_stringSlide
+    400064: bowRig_v1_0:transform1
+    4300000: bowRig_v1_0:bowBodyGeo
+    4300002: bowRig_v1_0:bowStringGeo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bowRig_v1_0:bowBodyGeo
+    13700002: bowRig_v1_0:bowStringGeo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

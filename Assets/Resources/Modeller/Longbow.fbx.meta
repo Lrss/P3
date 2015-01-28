@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 85ca81f95774206499d8b60f6222f054
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bow1
+    100004: Bow2
+    100006: Bow3
+    100008: Bow4
+    100010: Bow5
+    100012: Bow6
+    100014: Bow7
+    100016: Bow8
+    100018: //RootNode
+    100020: Longbow
+    100022: Master
+    100024: String_bone
+    100026: Arrow
+    400000: Armature
+    400002: Bow1
+    400004: Bow2
+    400006: Bow3
+    400008: Bow4
+    400010: Bow5
+    400012: Bow6
+    400014: Bow7
+    400016: Bow8
+    400018: //RootNode
+    400020: Longbow
+    400022: Master
+    400024: String_bone
+    400026: Arrow
+    4300000: Longbow
+    4300002: Arrow
+    7400000: Default Take
+    7400002: Draw_Longbow
+    7400004: Release Arrow_Longbow
+    7400006: Ready To Fire_Longbow
+    7400008: Idle_Longbow
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Longbow
+    13700002: Arrow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Master
+        weight: 1
+      - path: Armature/Master/Bow1
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3/Bow4
+        weight: 1
+      - path: Armature/Master/Bow5
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7/Bow8
+        weight: 1
+      - path: Armature/Master/String_bone
+        weight: 1
+      - path: Longbow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Draw_Longbow
+      takeName: Draw
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Master
+        weight: 1
+      - path: Armature/Master/Bow1
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3/Bow4
+        weight: 1
+      - path: Armature/Master/Bow5
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7/Bow8
+        weight: 1
+      - path: Armature/Master/String_bone
+        weight: 1
+      - path: Longbow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Release Arrow_Longbow
+      takeName: Shoot
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Master
+        weight: 1
+      - path: Armature/Master/Bow1
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3/Bow4
+        weight: 1
+      - path: Armature/Master/Bow5
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7/Bow8
+        weight: 1
+      - path: Armature/Master/String_bone
+        weight: 1
+      - path: Longbow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ready To Fire_Longbow
+      takeName: Default Take
+      firstFrame: 49
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Master
+        weight: 1
+      - path: Armature/Master/Bow1
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3/Bow4
+        weight: 1
+      - path: Armature/Master/Bow5
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7/Bow8
+        weight: 1
+      - path: Armature/Master/String_bone
+        weight: 1
+      - path: Longbow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_Longbow
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Master
+        weight: 1
+      - path: Armature/Master/Bow1
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3
+        weight: 1
+      - path: Armature/Master/Bow1/Bow2/Bow3/Bow4
+        weight: 1
+      - path: Armature/Master/Bow5
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7
+        weight: 1
+      - path: Armature/Master/Bow5/Bow6/Bow7/Bow8
+        weight: 1
+      - path: Armature/Master/String_bone
+        weight: 1
+      - path: Longbow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,24 @@
+B_MIN = 
+0
+B_MAX = 
+255
+G_MIN = 
+0
+G_MAX = 
+255
+R_MIN = 
+0
+R_MAX = 
+255
+H_MIN = 
+0
+H_MAX = 
+255
+S_MIN = 
+0
+S_MAX = 
+255
+V_MIN = 
+0
+V_MAX = 
+255

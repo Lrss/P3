@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 69f4d0ed182073544b31223c063c952c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: b_bend1
+    100002: b_bend2
+    100004: b_bend3
+    100006: b_bend4
+    100008: b_bendIk
+    100010: b_bowGrip
+    100012: b_bowPull
+    100014: b_bowString
+    100016: b_drawIk
+    100018: b_pullSlide
+    100020: b_stringSlide
+    100022: bendBones
+    100024: bones_controls
+    100026: //RootNode
+    100028: bowBodyGeo
+    100030: bowMasterCtrl
+    100032: bowStringGeo
+    100034: drawCtrl
+    100036: geoGrp
+    100038: slideJoint
+    100040: stringSlideCtrl
+    100042: t_bend1
+    100044: t_bend2
+    100046: t_bend3
+    100048: t_bend4
+    100050: t_bendIk
+    100052: t_bowGrip
+    100054: t_bowPull
+    100056: t_bowString
+    100058: t_drawIk
+    100060: t_pullSlide
+    100062: t_stringSlide
+    100064: transform1
+    400000: b_bend1
+    400002: b_bend2
+    400004: b_bend3
+    400006: b_bend4
+    400008: b_bendIk
+    400010: b_bowGrip
+    400012: b_bowPull
+    400014: b_bowString
+    400016: b_drawIk
+    400018: b_pullSlide
+    400020: b_stringSlide
+    400022: bendBones
+    400024: bones_controls
+    400026: //RootNode
+    400028: bowBodyGeo
+    400030: bowMasterCtrl
+    400032: bowStringGeo
+    400034: drawCtrl
+    400036: geoGrp
+    400038: slideJoint
+    400040: stringSlideCtrl
+    400042: t_bend1
+    400044: t_bend2
+    400046: t_bend3
+    400048: t_bend4
+    400050: t_bendIk
+    400052: t_bowGrip
+    400054: t_bowPull
+    400056: t_bowString
+    400058: t_drawIk
+    400060: t_pullSlide
+    400062: t_stringSlide
+    400064: transform1
+    4300000: bowBodyGeo
+    4300002: bowStringGeo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bowBodyGeo
+    13700002: bowStringGeo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: geoGrp
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
